@@ -14,4 +14,4 @@ if(n%2==0):
 print("prime:")
 count+1=1
 else:
-print("npt prime:")
+print("not prime:")
