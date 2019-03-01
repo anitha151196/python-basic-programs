@@ -41,8 +41,9 @@ else:
 
 
 
-number of vowels in a string:
 
+        
+number of vowels in a string:
 x=input("enter string:")
 count=0
 for ele in range(len(x)):
