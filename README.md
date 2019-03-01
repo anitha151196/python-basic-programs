@@ -31,4 +31,13 @@ if(n==n[::-1]):
 else:
         print("not palindrome:")
         
+number of vowels in a string:
+x=input("enter string:")
+count=0
+for ele in range(len(x)):
+   if x[ele] in "aeiou":   
+                   count+=1
+print(count)
+
+        
         
