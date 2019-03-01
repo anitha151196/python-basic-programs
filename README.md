@@ -31,6 +31,18 @@ if(n==n[::-1]):
 else:
         print("not palindrome:")
         
+        
+check whether symbol is vowel or consonent:
+x=input("enter a symbol:")
+if x in ('a','e','i','o','u'):
+  print("given symbol is ovel")
+else:
+    print("given symbol is consonent")
+
+
+
+
+        
 number of vowels in a string:
 x=input("enter string:")
 count=0
